@@ -7,11 +7,11 @@
 
 
 - 👋 Hi, I’m @Satyam-shukla
-- 👀 I’m interested in ...Spend on time in coding
--🌱 I’m currently learning **everything 😜**
+- 👀 I’m interested in spending time in coding
+-🌱 I’m currently learning **Basic Python**
 - 👨‍💻 All of my projects are available at  [https://github.com/satyam-shukla](https://github.com/satyam-shukla)
 - 📫 How to reach me satyam20@navgurukul.org,alexjanerio@gmail.com
-- - ⚡ Fun fact **I think I am funny 😂**
+- - ⚡ Fun fact **I think I'm a dramatical guy. 😂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
