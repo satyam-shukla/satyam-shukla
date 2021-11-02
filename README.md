@@ -1,5 +1,9 @@
 <h1 align="center";font-size:1.3rem;>Hi 👋, I'm Satyam shukla</h1>
 <h3 align="center">i'm self learner !!</h3>
+<hr>
+                                                                       <!-- place your pic here !!!!!! -->
+
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-shukla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam-shukla" alt="satyam-shukla"
