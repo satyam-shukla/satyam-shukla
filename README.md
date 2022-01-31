@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @Satyam-shukla
 - 👀 I’m interested in spending time in coding 
-- 🌱 I’m currently learning **Basic Python**
+- 🌱 I’m currently learning **mern-stack**
 - 👨‍💻 All of my projects are available at  [https://github.com/satyam-shukla](https://github.com/satyam-shukla)
 - 📫 How to reach me satyam20@navgurukul.org,alexjanerio@gmail.com
 - - ⚡ Fun fact **I think I'm a dramatical guy. 😂**
