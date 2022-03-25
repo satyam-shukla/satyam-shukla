@@ -7,7 +7,7 @@
 /></a> </p>
 
 
-- 👋 Hi, I’m NavGurukul
+- 👋 Hi, I’m Satyam-Shukla
 - 👀 I’m interested in spending time in coding 
 - 🌱 I’m currently learning **mern-stack**
 - 👨‍💻 All of my projects are available at  [https://github.com/satyam-shukla](https://github.com/satyam-shukla)
