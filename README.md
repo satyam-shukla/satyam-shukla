@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm satyam</h1>
 <h3 align="center">A passionate MERN-STACK developer from India</h3>
-
+<p display="flex"align="center"><img align="center" src="https://miro.medium.com/max/875/0*FGD6BUzzZs1VJLuY.gif" height="400px" weight="400px"/><p/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-shukla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam-shukla" alt="satyam-shukla" /></a> </p>
