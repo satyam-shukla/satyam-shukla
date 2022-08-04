@@ -2,7 +2,7 @@
 </h1>
 <h2 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ
 </h2>
-<p display="flex"align="center"><img align="center" src="https://miro.medium.com/max/875/0*FGD6BUzzZs1VJLuY.gif" height="400px" weight="400px"/><p/>
+<p display="flex"align="center"><img align="center" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" height="400px" weight="400px"/><p/>
  <p display="flex"align="center">
     <a href="https://wangchujiang.com/">
       <img src="https://github-profile-trophy.vercel.app/?username=jaywcjlove&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
