@@ -8,7 +8,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=jaywcjlove&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
     </a>
   </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-shukla" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
