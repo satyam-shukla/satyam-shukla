@@ -1,6 +1,21 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ ꜱᴀᴛʏᴀᴍ
 </h1>
 <h2 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ 💫
+.
+.
+.
+
+const Satyam_Shukla = {
+  nickname: "Satyam",
+  emails: ["satyam20@navgurukul.org", "satyamshukla.appdelite@gmail.com"],
+  loveToCode: true,
+  codes: [Javascript, Python, Typescript, NodeJs, CSS3, HTML5],
+  tools: [React, Node, Bootstrap, Mongodb, MySQL],
+}
+
+.
+.
+.
 </h2>
 <p display="flex"align="center"><img align="center" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" height="400px" weight="400px"/><p/>
  <p display="flex"align="center">
