@@ -18,6 +18,7 @@ const Satyam_Shukla = {
   loveToCode: true,
   codes: [Javascript, Python, Typescript, NodeJs, CSS3, HTML5],
   tools: [React, Node, Bootstrap, Mongodb, MySQL],
+  backendFrameWorks: [HapiJs, ExpressJs, NestJs]
 }
 
   ```
