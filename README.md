@@ -22,9 +22,9 @@ const Satyam_Shukla = {
 }
 
   ```
-- 🔭 I’m currently working on [MOVIES_API](https://github.com/satyam-shukla/moviesApi-_with_HapiJs)
+- 🔭 I’m currently working with **TypeScript and NestJs**
 
-- 🌱 I’m currently learning **TypeScript and NestJs**
+- 🌱 I’m currently learning **lyf**
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyam-shukla](https://github.com/satyam-shukla)
 
